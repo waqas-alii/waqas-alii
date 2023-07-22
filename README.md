@@ -4,7 +4,7 @@
 
 <p align="center"> <a href="https://twitter.com/waqas_aali" target="blank"><img src="https://img.shields.io/twitter/follow/waqas_aali?logo=twitter&style=for-the-badge" alt="waqas_aali" /></a> </p>
 
-- 🔭 I’m currently working on a freelance marketplace [WorkAmbition](https://cubilock.com/)
+- 🔭 I’m currently working on a freelance marketplace [WorkAmbition]([https://cubilock.com/](http://3.80.23.32/))
 
 - 🌱 I’m currently learning ** Riverpodd, SwiftUI & enterprise mobility**
 
