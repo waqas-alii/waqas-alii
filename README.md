@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/waqas_aali" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="zubair340" height="40" width="40"/></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/zubairehman_work" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" alt="https://www.hackerrank.com/zubairehman_work" height="40" width="40" /></a>
+<a href="https://leetcode.com/waqas_alii/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" alt="https://leetcode.com/waqas_alii/" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zubairehman/" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="https://www.linkedin.com/in/zubairehman/" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/2559493/zubair-rehman" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="https://stackoverflow.com/users/2559493/zubair-rehman" height="40" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/zubair340/" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/facebook-new.png" alt="https://www.facebook.com/zubair340/" height="40" width="40" /></a>
