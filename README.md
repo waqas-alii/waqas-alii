@@ -25,8 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/waqas_aali" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/twitter.png" alt="zubair340" height="40" width="40"/></a>
 <a href="https://leetcode.com/waqas_alii/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" alt="https://leetcode.com/waqas_alii/" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zubairehman/" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="https://www.linkedin.com/in/zubairehman/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/waqas-ali65/" target="blank"><img align="center" src="https://img.icons8.com/fluent/96/000000/linkedin.png" alt="https://www.linkedin.com/in/waqas-ali65/" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/2559493/zubair-rehman" target="blank"><img align="center" src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="https://stackoverflow.com/users/2559493/zubair-rehman" height="40" width="40" /></a>
-
 <a href="https://medium.com/@anjum.waqas9395" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" alt="@anjum.waqas9395" height="40" width="40" /></a>
 </p>
